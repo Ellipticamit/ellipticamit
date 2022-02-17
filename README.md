@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/29935993/87229446-9c829a80-c3c5-11ea-95e1-7549ef3601fd.png">
 
-<!--
-**Ellipticamit/ellipticamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Amit 👋
 
-Here are some ideas to get you started:
+Senior Software Engineer at Bed, Bath & Beyond 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend Engineer :man_technologist:
+
+## About me 
+
+Engineer Artist Computer Vision Enthusiast
+
+
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellipticamit&show_icons=true&theme=radical)
