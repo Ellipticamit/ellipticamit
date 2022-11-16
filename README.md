@@ -2,9 +2,9 @@
 
 # Hey, I'm Amit 👋
 
-Senior Software Engineer at Bed, Bath & Beyond 🔭
+Technical Analyst at Bed, Bath & Beyond 🔭
 
-Frontend Engineer :man_technologist:
+Senior Frontend Engineer :man_technologist:
 
 ## About me 
 
