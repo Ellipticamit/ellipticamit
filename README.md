@@ -8,7 +8,6 @@ Senior Frontend Engineer :man_technologist:
 
 ## About me 
 
-Engineer Artist Computer Vision Enthusiast
-
+Engineer Artist Dog Lover 
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellipticamit&show_icons=true&theme=radical)
