@@ -2,7 +2,7 @@
 
 # Hey, I'm Amit 👋
 
-Technical Analyst at Bed, Bath & Beyond 🔭
+Senior Associate Experience Technology at Publicis Sapient
 
 Senior Frontend Engineer :man_technologist:
 
